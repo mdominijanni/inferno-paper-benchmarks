@@ -1,0 +1,1 @@
+{"info": {"bench": "pdl", "enc": "exact", "device": "cuda_standalone", "n_trials": 10, "n_warmup": 5}, "results": {"20000": {"mean": 1058.6825000000001, "total": 10586.825}}}

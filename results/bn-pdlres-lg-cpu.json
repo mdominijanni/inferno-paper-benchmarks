@@ -1,0 +1,1 @@
+{"info": {"bench": "pdl", "enc": "exact", "device": "cpu", "n_trials": 10, "n_warmup": 5}, "results": {"15000": {"mean": 26114.30139997974, "total": 261143.0139997974}}}
